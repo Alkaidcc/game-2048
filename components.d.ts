@@ -11,6 +11,7 @@ declare module '@vue/runtime-core' {
     Box: typeof import('./src/components/Box.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
+    GameOverOverlay: typeof import('./src/components/GameOverOverlay.vue')['default']
     Playground: typeof import('./src/components/Playground.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
